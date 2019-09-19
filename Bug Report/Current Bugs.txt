@@ -1,0 +1,8 @@
+BUG #1 - You can only go into the menu with the keyboard and go back to the menu using escape
+
+BUG #2 - Character select doesn't really reset characters if you exit
+
+BUG #3 - The Overheat wave file constantly plays until you pick up your barrel.
+
+BUG #4 - The Picture Icons sometimes don't represent the actual robot you select (This includes the winner picture)
+

@@ -1,0 +1,6 @@
+Problem - When rotating the camera on the X & Z axis at the same time causes a blur of geometry. 
+
+Fix - Adjusting the angle on the yaw and roll in Camera.cpp doesn't stretch the geometr.
+
+Can be addressed in the Camera.cpp 
+Input on camera in Game.cpp

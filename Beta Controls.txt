@@ -1,0 +1,31 @@
+Player 1 Controls
+
+Forward - W
+Backward - S
+Left - A
+Right - D
+
+Shoot - V
+Block - B
+Sprint - N
+
+
+Rotate Cannon Left - G
+Rotate Cannon Right - H
+
+
+
+Player 2 Controls
+
+Forward - Up Arrow
+Backward - Down Arrow
+Left - Left Arrow
+Right - Right Arrow
+
+Shoot - I
+Block - O
+Sprint - P
+
+Rotate Cannon Left - 9
+Rotate Cannon Right - 0 
+
